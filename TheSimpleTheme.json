@@ -1,0 +1,91 @@
+{
+    "name": "The Simple Theme",
+    "description": "Simple Dark Theme",
+    "authors": [
+        {
+            "name": "Albedo",
+            "id": "280007653395136514"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#191919"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2B2B2B"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2B2B2B"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#191919"
+        ],
+        "KEYBOARD": [
+            "#191919"
+        ],
+        "CHAT_BACKGROUND": [
+            "#191919"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2B2B2B"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#191919"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2B2B2B"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#4CC2FF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#333333"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4CC2FF"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#333333"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#333333"
+        ],
+        "TEXT_LINK": [
+            "#4CC2FF"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4CC2FF"
+        ],
+        "CHANNEL_ICON": [
+            "#FAFAFA"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#FAFAFA"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#FAFAFA"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#191919",
+        "PRIMARY_600": "#191919",
+        "PRIMARY_630": "#191919",
+        "PRIMARY_660": "#56D79C80",
+        "PRIMARY_700": "#191919",
+        "PRIMARY_800": "#191919",
+        "BRAND_260": "#D4AF37",
+        "BRAND_500": "#D4AF37",
+        "BRAND_900": "#D4AF37",
+        "GREEN_360": "#000000",
+        "YELLOW_300": "#4CC2FF",
+        "RED_400": "#6001D3C5",
+        "WHITE_500": "#FAFAFA"
+    },
+    "spec": 2
+}
